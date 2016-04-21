@@ -1,0 +1,20 @@
+{
+  "name": "ducker",
+  "version": "1.0.0",
+  "description": "My third React app, this time learning Redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilsa/ducker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilsa/ducker/issues"
+  },
+  "homepage": "https://github.com/guilsa/ducker#readme"
+}
