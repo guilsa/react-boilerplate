@@ -20,7 +20,8 @@
   "homepage": "https://github.com/guilsa/ducker#readme",
   "dependencies": {
     "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+    "react-dom": "^15.0.1",
+    "react-router": "^2.3.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.7",
