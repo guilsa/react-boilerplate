@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 const MainContainer = React.createClass({
   render () {
     return (
-      <p>Hello World!</p>
+      <p>{'Hello World!'}</p>
     )
   }
 })
