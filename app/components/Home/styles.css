@@ -1,0 +1,14 @@
+/* Example CSS */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: 100;
+  font-size: 100px;
+  margin-bottom: 20px;
+}
