@@ -18,13 +18,12 @@ Adding components or containers:
 
 # Snippets
 
-Editor of choice is Atom with snippets from https://atom.io/packages/react. I added a functional react component snippet. Mostly I use ```frcc``` and ``rcc6``. 
+Editor of choice is Atom with snippets from https://atom.io/packages/react. I added a functional react component snippet. Mostly I use ```frcc``` and ``rcc6``.
 
 frcc snippet:
-```"React: functional react component":
+**"React: functional react component":
     prefix: "frcc"
-    body: "import React, { PropTypes } from 'react'\n\nexport default function $1 (props) {\n\treturn (\n\t\t<div>$1</div>\n\t)\n}"
-```
+    body: "import React, { PropTypes } from 'react'\n\nexport default function $1 (props) {\n\treturn (\n\t\t<div>$1</div>\n\t)\n}"**
 
 # Run
 
